@@ -588,4 +588,4 @@ parseInt('0x20', 16); // => 32
 
 ## License
 
-MIT © BILLGO.ME
+MIT © BILLGO.ME & es-toolkit
